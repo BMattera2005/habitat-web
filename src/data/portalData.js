@@ -93,3 +93,11 @@ export const catalogItems = [
     specs: ["Largo 1.50m - Alto 1.00m", "Apta para lastre de agua/arena", "Bandas reflectivas"]
   }
 ];
+
+export const quickArticles = [
+  { sku: "SAL-1001", name: "Bota de Seguridad Cuero Flor C/ Puntera", rubro: "Seguridad", basePrice: 48500 },
+  { sku: "SAL-1045", name: "Chaleco Reflectivo Alta Visibilidad IRAM", rubro: "Seguridad", basePrice: 9800 },
+  { sku: "SAL-2020", name: "Maza de Golpe 5kg Mango Fibra", rubro: "Herramientas", basePrice: 32000 },
+  { sku: "SAL-3012", name: "Anclaje Químico Epoxi 400ml", rubro: "Fijaciones", basePrice: 24500 },
+  { sku: "SAL-4099", name: "Disco Diamantado Segmentado 9 Pulgadas", rubro: "Construcción", basePrice: 18900 }
+];
